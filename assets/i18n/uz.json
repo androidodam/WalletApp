@@ -1,0 +1,60 @@
+{
+    "AUTH": {
+        "NEXT": "Keyingisi",
+        "SKIP": "Yakunlash",
+        "ONBOARD1": "Daromatlarni qo'shib borish",
+        "ONBOARD2": "Chiqimlarni kiritib borish",
+        "ONBOARD3": "Hisobotlarni ko'rib borish",
+        "START": "Boshlash",
+        "USERIMAGE": "Rasm yuklash",
+        "NAME": "Ism",
+        "LOGIN": "Kirish"
+    },
+    "HOME": {
+        "PANEL": "Boshqaruv paneli",
+        "HELLO": "Salom",
+        "BALANCE": "Umumiy balans",
+        "HOME": "Asosiy",
+        "EXPENSE": "Chiqim",
+        "REQUEST": "Kirim",
+        "PROFILE": "Profil",
+        "SUM": "so'm",
+        "RECENTTR": "Oxirgi tranzaksiyalar",
+        "EXPENSES": "Chiqimlar",
+        "REQUESTS": "Kirimlar",
+        "NOTRANSACTIONS": "Hozircha tranzaksiyalar yo'q",
+        "DELETE": "O'chirish",
+        "YES": "Ha",
+        "NO": "Yo'q",
+        "WANTDELETE": "Ushbu elementni o'chirishni xohlaysizmi"
+    },
+    "EXPENSE": {
+        "SENT": "Chiqim",
+        "SENTIMAGE": "Rasm yuklash",
+        "SENTNAME": "Ism",
+        "SENTSUMMA": "Summa",
+        "DATETIME": "Sana va vaqt tanlash",
+        "SAVE": "Saqlash",
+        "SNACKBARALERT": "Iltimos, barcha ma'lumotlarni kiriting",
+        "SENTADED": "Chiqim qo'shildi"
+    },
+    "REQUEST": {
+        "INCOME": "Kirim",
+        "INCOMEIMAGE": "Rasm yuklash",
+        "INCOMENAME": "Ism",
+        "INCOMESUMMA": "Summa",
+        "INCOMEDATETIME": "Sana va vaqt tanlash",
+        "INCOMESAVE": "Saqlash",
+        "INCOMESNACKBARALERT": "Iltimos, barcha ma'lumotlarni kiriting",
+        "INCOMEADED": "Kirim qo'shildi"
+    },
+    "PROFILE": {
+        "PROFILE": "Profil",
+        "PROFILEIMAGE": "Rasmni o'zgartirish",
+        "PROFILETHEME": "Tungi rejim",
+        "PROFILELANGUAGE": "Tilni o'zgartirish",
+        "UZ": "O'zbekcha",
+        "RU": "Ruscha",
+        "EN": "Inglizcha"
+    }
+}

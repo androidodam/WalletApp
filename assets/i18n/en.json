@@ -1,0 +1,60 @@
+{
+    "AUTH": {
+        "NEXT": "Next",
+        "SKIP": "Finish",
+        "ONBOARD1": "Add incomes",
+        "ONBOARD2": "Track expenses",
+        "ONBOARD3": "View reports",
+        "START": "Start",
+        "USERIMAGE": "Upload Image",
+        "NAME": "Name",
+        "LOGIN": "Login"
+    },
+    "HOME": {
+        "PANEL": "Dashboard",
+        "HELLO": "Hello",
+        "BALANCE": "Total Balance",
+        "HOME": "Home",
+        "EXPENSE": "Expense",
+        "REQUEST": "Income",
+        "PROFILE": "Profile",
+        "SUM": "UZS",
+        "RECENTTR": "Recent Transactions",
+        "EXPENSES": "Expenses",
+        "REQUESTS": "Incomes",
+        "NOTRANSACTIONS": "No transactions yet",
+        "DELETE": "Delete",
+        "YES": "Yes",
+        "NO": "No",
+        "WANTDELETE": "Do you want to delete this item"
+    },
+    "EXPENSE": {
+        "SENT": "Expense",
+        "SENTIMAGE": "Upload Image",
+        "SENTNAME": "Name",
+        "SENTSUMMA": "Amount",
+        "DATETIME": "Select Date and Time",
+        "SAVE": "Save",
+        "SNACKBARALERT": "Please enter all the information",
+        "SENTADED": "Expense added"
+    },
+    "REQUEST": {
+        "INCOME": "Income",
+        "INCOMEIMAGE": "Upload Image",
+        "INCOMENAME": "Name",
+        "INCOMESUMMA": "Amount",
+        "INCOMEDATETIME": "Select Date and Time",
+        "INCOMESAVE": "Save",
+        "INCOMESNACKBARALERT": "Please enter all the information",
+        "INCOMEADED": "Income added"
+    },
+    "PROFILE": {
+        "PROFILE": "Profile",
+        "PROFILEIMAGE": "Change Image",
+        "PROFILETHEME": "Dark Mode",
+        "PROFILELANGUAGE": "Change Language",
+        "UZ": "Uzbek",
+        "RU": "Russian",
+        "EN": "English"
+    }
+}

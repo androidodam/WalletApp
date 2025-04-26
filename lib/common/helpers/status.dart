@@ -1,0 +1,1 @@
+enum CustomButtonStatus { ICON, ELEVETED }
